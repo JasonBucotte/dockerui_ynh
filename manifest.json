@@ -5,7 +5,7 @@
         "en": "Docker allows to deploy applications which have not yet been integrated with YunoHost",
         "fr": "Docker permet de déployer des applications qui n'ont pas encore été intégrées à YunoHost"
     },
-    "version": "0.0.1~ynh1"
+    "version": "0.0.1~ynh1",
     "maintainer": [
       {
         "name": "scith"
